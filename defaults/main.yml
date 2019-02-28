@@ -1,0 +1,5 @@
+---
+# defaults file for vm
+resource_group: myResrouceGroup
+resource_name: mySubNet
+location: eastus
