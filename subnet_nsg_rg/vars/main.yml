@@ -1,0 +1,5 @@
+---
+# vars file for vm
+resource_group: yuwzhotest
+resource_group_secondary: yuwzhoaks
+resource_name: yuwzhosubnet
